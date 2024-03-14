@@ -3,7 +3,7 @@ from .database_utils import load_sql_file
 
 config = {
     'user' : 'root',
-    'password' : 'notpassword??',
+    'password' : '',
     'host' : '127.0.0.1',
 }
 
