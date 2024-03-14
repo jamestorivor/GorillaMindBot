@@ -14,7 +14,7 @@ def get_product_image():
         with open(folder_dir + "/"+ image,"rb") as file:
             url = "https://api.imgbb.com/1/upload"
             payload = {
-                "key" : "8adab157863ffd0f4479762da90dafb7",
+                "key" : "",
                 "image" : base64.b64encode(file.read()),
             }
             response = requests.post(url,payload)
