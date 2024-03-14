@@ -31,7 +31,7 @@ Telegram Bot created for Gorilla Mind drop shipping business
    the methods used in the `update` class (update.METHOD) must be used in response to an update ( a message that the bot can recieve as an update )
    the methods in the `context` class can be used at all times and are more versitile. ( The methods usually have a chat_id and message_id input, suggesting that you are not limited to the current chat)
 
-2. Use `context.bot.user_data` when using a `ConverstaionHandler`. '`ontext.bot.user_data` is a dictionary that stores values until it is cleared or the converstaion is ended.
+2. Use `context.bot.user_data` when using a `ConverstaionHandler`. `context.bot.user_data` is a dictionary that stores values until it is cleared or the converstaion is ended.
   This allows you to bring over data from one function to another and keep the message_id of an important message cached
 
 3. If using the bot to send images, use Telegram's caching rather than uploading to a server and using an API to get the images. It is signficantly faster to get the images which are cached on Telegram.
