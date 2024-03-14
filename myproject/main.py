@@ -17,7 +17,7 @@ if __name__ == "__main__":
     load_dotenv()
 
 
-    BOT_TOKEN = "6571919073:AAHFbRXVvq1wJ-pAkOxmoLpq7TUiIC6Uqho"
+    BOT_TOKEN = ""
     BOT_USERNAME = os.getenv("BOT_USERNAME")
 
     print("Starting bot...")
