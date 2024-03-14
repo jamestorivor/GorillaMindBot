@@ -11,7 +11,7 @@ Telegram Bot created for Gorilla Mind drop shipping business
 ![](https://github.com/jamestorivor/GorillaMindBot/assets/101387980/4d682622-f823-4471-86b7-646bbde234e5)
 
 4. Use the 'Add to cart' button to add the item you want to cart
-![](https://github.com/jamestorivor/GorillaMindBot/assets/101387980/21add454-d14c-4d9e-bb8d-2d65b454154a)
+![](https://github.com/jamestorivor/GorillaMindBot/blob/main/GorillaMindBotGithub/Add_to_cart.mp4)
 
 5. Use the 'View Cart' button to view the items you have added to cart (Not a very pretty cart)
    Use the 'Remove Item' button in the cart page to remove the items that you no longer want
