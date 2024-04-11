@@ -2,7 +2,7 @@
 Telegram Bot created for Gorilla Mind drop shipping business
 
 1. Start the bot and get information about the bot using '/start' and '/how_to'
-![](https://github.com/jamestorivor/GorillaMindBot/assets/101387980/7574b01b-5265-4ba1-9181-9c5a0c95ef1b)
+![](https://github.com/jamestorivor/GorillaMindBot/Add_to_cart-ezgif.com-optimize.gif)
 
 2. Use '/products' to see the products available and toggle through the interactive message
 ![](https://github.com/jamestorivor/GorillaMindBot/assets/101387980/3875473c-9191-4f7d-b3f2-efb8af963714)
