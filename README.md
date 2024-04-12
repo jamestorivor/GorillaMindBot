@@ -15,6 +15,7 @@ Telegram Bot created for Gorilla Mind drop shipping business
 
 5. Use the 'View Cart' button to view the items you have added to cart (Not a very pretty cart)
    Use the 'Remove Item' button in the cart page to remove the items that you no longer want
+   
 ![](https://github.com/jamestorivor/GorillaMindBot/blob/main/ReadMeGifs/viewcart-ezgif.com-video-to-gif-converter.gif)
 
 
