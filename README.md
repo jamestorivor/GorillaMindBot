@@ -2,20 +2,20 @@
 Telegram Bot created for Gorilla Mind drop shipping business
 
 1. Start the bot and get information about the bot using '/start' and '/how_to'
-![](https://github.com/jamestorivor/GorillaMindBot/blob/main/Add_to_cart-ezgif.com-optimize.gif)
+![](https://github.com/jamestorivor/GorillaMindBot/blob/main/ReadMeGifs/start-ezgif.com-video-to-gif-converter.gif)
 
 2. Use '/products' to see the products available and toggle through the interactive message
-![](https://github.com/jamestorivor/GorillaMindBot/assets/101387980/3875473c-9191-4f7d-b3f2-efb8af963714)
+![](https://github.com/jamestorivor/GorillaMindBot/blob/main/ReadMeGifs/products-ezgif.com-video-to-gif-converter.gif)
 
 3. Use the 'Flavours' button to change the interactive message to the desired flavour
-![](https://github.com/jamestorivor/GorillaMindBot/assets/101387980/4d682622-f823-4471-86b7-646bbde234e5)
+![](https://github.com/jamestorivor/GorillaMindBot/blob/main/ReadMeGifs/flavour-ezgif.com-video-to-gif-converter.gif)
 
 4. Use the 'Add to cart' button to add the item you want to cart
-![](https://github.com/jamestorivor/GorillaMindBot/blob/main/GorillaMindBotGithub/Add_to_cart.mp4)
+![](https://github.com/jamestorivor/GorillaMindBot/blob/main/ReadMeGifs/Add_to_cart-ezgif.com-optimize.gif)
 
 5. Use the 'View Cart' button to view the items you have added to cart (Not a very pretty cart)
    Use the 'Remove Item' button in the cart page to remove the items that you no longer want
-![](https://github.com/jamestorivor/GorillaMindBot/assets/101387980/e31826c0-d782-43da-9860-9eea93aee908)
+![](https://github.com/jamestorivor/GorillaMindBot/blob/main/ReadMeGifs/viewcart-ezgif.com-video-to-gif-converter.gif)
 
 
 
